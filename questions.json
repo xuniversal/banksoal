@@ -1,0 +1,88 @@
+[
+{"id":1,"category":"Analogi","question":"RENTA : TUA = AUS : ?","options":{"A":"Baru","B":"Usang","C":"Muda","D":"Kuat","E":"Segar"},"answer":"B","explanation":"Sinonim"},
+{"id":2,"category":"Analogi","question":"PENA : MENULIS = GERGAJI : ?","options":{"A":"Kayu","B":"Memotong","C":"Tukang","D":"Tajam","E":"Alat"},"answer":"B","explanation":"Fungsi alat"},
+{"id":3,"category":"Analogi","question":"GELAP : TERANG = BISING : ?","options":{"A":"Ramai","B":"Sunyi","C":"Keras","D":"Pelan","E":"Tenang"},"answer":"B","explanation":"Antonim"},
+{"id":4,"category":"Analogi","question":"HAUS : MINUM = LELAH : ?","options":{"A":"Tidur","B":"Bekerja","C":"Berjalan","D":"Olahraga","E":"Sakit"},"answer":"A","explanation":"Solusi kondisi"},
+{"id":5,"category":"Analogi","question":"BUKU : PERPUSTAKAAN = OBAT : ?","options":{"A":"Dokter","B":"Apotek","C":"Penyakit","D":"Resep","E":"Rumah"},"answer":"B","explanation":"Tempat"},
+{"id":6,"category":"Analogi","question":"KOMPOR : PANAS = KULKAS : ?","options":{"A":"Beku","B":"Dingin","C":"Air","D":"Makanan","E":"Es"},"answer":"B","explanation":"Sifat"},
+{"id":7,"category":"Analogi","question":"AYAH : ANAK = POHON : ?","options":{"A":"Daun","B":"Buah","C":"Akar","D":"Tunas","E":"Batang"},"answer":"D","explanation":"Keturunan"},
+{"id":8,"category":"Analogi","question":"LAPAR : KENYANG = KOSONG : ?","options":{"A":"Penuh","B":"Isi","C":"Padat","D":"Banyak","E":"Sesak"},"answer":"A","explanation":"Antonim"},
+{"id":9,"category":"Analogi","question":"HAKIM : PENGADILAN = GURU : ?","options":{"A":"Sekolah","B":"Kelas","C":"Murid","D":"Buku","E":"Mengajar"},"answer":"B","explanation":"Tempat spesifik"},
+{"id":10,"category":"Analogi","question":"DOKTER : RUMAH SAKIT = PILOT : ?","options":{"A":"Bandara","B":"Pesawat","C":"Kokpit","D":"Langit","E":"Penerbangan"},"answer":"C","explanation":"Tempat kerja utama"},
+
+{"id":11,"category":"Silogisme","question":"Semua mahasiswa ujian. Budi mahasiswa. Kesimpulan?","options":{"A":"Budi tidak ujian","B":"Budi ujian","C":"Mungkin ujian","D":"Semua ujian mahasiswa","E":"Tidak pasti"},"answer":"B","explanation":"Silogisme"},
+{"id":12,"category":"Silogisme","question":"Tidak ada reptil menyusui. Semua ular reptil. Kesimpulan?","options":{"A":"Ular menyusui","B":"Ular tidak menyusui","C":"Sebagian menyusui","D":"Bukan reptil","E":"Semua ular mamalia"},"answer":"B","explanation":"Silogisme"},
+{"id":13,"category":"Silogisme","question":"Beberapa dokter peneliti. Semua peneliti S2. Kesimpulan?","options":{"A":"Semua dokter S2","B":"Beberapa dokter S2","C":"Tidak ada dokter S2","D":"Semua S2 dokter","E":"Dokter bukan peneliti"},"answer":"B","explanation":"Silogisme"},
+{"id":14,"category":"Silogisme","question":"Jika hujan jalan basah. Jalan basah. Kesimpulan?","options":{"A":"Pasti hujan","B":"Tidak hujan","C":"Mungkin hujan","D":"Selalu basah","E":"Hujan tidak berpengaruh"},"answer":"C","explanation":"Fallacy"},
+{"id":15,"category":"Silogisme","question":"Jika belajar nilai bagus. Nilai jelek. Kesimpulan?","options":{"A":"Belajar","B":"Tidak belajar","C":"Mungkin belajar","D":"Belajar tidak penting","E":"Nilai acak"},"answer":"B","explanation":"Modus tollens"},
+
+{"id":16,"category":"Numerik","question":"2,4,8,16,...","options":{"A":"24","B":"28","C":"32","D":"36","E":"40"},"answer":"C","explanation":"x2"},
+{"id":17,"category":"Numerik","question":"3,7,15,31,...","options":{"A":"60","B":"63","C":"62","D":"61","E":"64"},"answer":"B","explanation":"x2+1"},
+{"id":18,"category":"Numerik","question":"1,4,9,16,...","options":{"A":"20","B":"24","C":"25","D":"26","E":"30"},"answer":"C","explanation":"kuadrat"},
+{"id":19,"category":"Numerik","question":"5,10,20,35,...","options":{"A":"50","B":"55","C":"60","D":"65","E":"70"},"answer":"C","explanation":"+5,+10,+15"},
+{"id":20,"category":"Numerik","question":"7,10,14,19,...","options":{"A":"25","B":"26","C":"27","D":"28","E":"29"},"answer":"B","explanation":"+3,+4,+5"},
+
+{"id":21,"category":"Numerik","question":"8 orang 12 hari. 6 hari butuh?","options":{"A":"12","B":"14","C":"16","D":"18","E":"20"},"answer":"C","explanation":"Perbandingan"},
+{"id":22,"category":"Numerik","question":"Diskon 20% jadi 80k. Harga awal?","options":{"A":"90k","B":"95k","C":"100k","D":"110k","E":"120k"},"answer":"C","explanation":"80%"},
+{"id":23,"category":"Numerik","question":"60km/jam, 210km?","options":{"A":"2.5","B":"3","C":"3.5","D":"4","E":"5"},"answer":"C","explanation":"jarak/waktu"},
+{"id":24,"category":"Numerik","question":"3:5 total 400k. Ani?","options":{"A":"120k","B":"150k","C":"180k","D":"200k","E":"250k"},"answer":"B","explanation":"proporsi"},
+{"id":25,"category":"Numerik","question":"Untung 25% dari 8000?","options":{"A":"9000","B":"9500","C":"10000","D":"10500","E":"11000"},"answer":"C","explanation":"1.25x"},
+
+{"id":26,"category":"Logika","question":"Jika A maka B. A benar. Kesimpulan?","options":{"A":"B benar","B":"B salah","C":"Tidak pasti","D":"A salah","E":"Semua benar"},"answer":"A","explanation":"Modus ponens"},
+{"id":27,"category":"Logika","question":"Jika A maka B. B salah. Kesimpulan?","options":{"A":"A benar","B":"A salah","C":"Tidak pasti","D":"Semua salah","E":"Semua benar"},"answer":"B","explanation":"Modus tollens"},
+
+{"id":28,"category":"Figural","question":"Lingkaran, segitiga, persegi,...","options":{"A":"Lingkaran","B":"Segitiga","C":"Persegi","D":"Oval","E":"Segi5"},"answer":"A","explanation":"Pola ulang"},
+{"id":29,"category":"Figural","question":"↑ → ↓ ← ...","options":{"A":"↑","B":"→","C":"↓","D":"←","E":"↗"},"answer":"A","explanation":"Rotasi"},
+{"id":30,"category":"Figural","question":"1 titik,2,3,4,...","options":{"A":"4","B":"5","C":"6","D":"7","E":"8"},"answer":"B","explanation":"+1"},
+
+{"id":31,"category":"Numerik","question":"81,27,9,3,...","options":{"A":"1","B":"1/3","C":"0","D":"2","E":"3"},"answer":"A","explanation":"÷3"},
+{"id":32,"category":"Numerik","question":"100,95,85,70,...","options":{"A":"55","B":"50","C":"45","D":"40","E":"35"},"answer":"B","explanation":"-5,-10,-15"},
+{"id":33,"category":"Numerik","question":"64,56,49,43,...","options":{"A":"38","B":"37","C":"36","D":"35","E":"34"},"answer":"A","explanation":"-8,-7,-6"},
+
+{"id":34,"category":"Logika","question":"Semua A adalah B. Semua B adalah C. Kesimpulan?","options":{"A":"A adalah C","B":"C adalah A","C":"A bukan C","D":"Tidak pasti","E":"Semua salah"},"answer":"A","explanation":"Transitif"},
+{"id":35,"category":"Logika","question":"Tidak ada A adalah B. C adalah A. Kesimpulan?","options":{"A":"C adalah B","B":"C bukan B","C":"Semua benar","D":"Tidak pasti","E":"Semua salah"},"answer":"B","explanation":"Negatif"},
+
+{"id":36,"category":"Figural","question":"Segitiga atas, kanan, bawah,...","options":{"A":"atas","B":"kanan","C":"bawah","D":"kiri","E":"lingkaran"},"answer":"D","explanation":"rotasi"},
+{"id":37,"category":"Figural","question":"Kotak isi 1,2,3,...","options":{"A":"3","B":"4","C":"5","D":"6","E":"7"},"answer":"C","explanation":"+1"},
+
+{"id":38,"category":"Numerik","question":"1,1,2,3,5,...","options":{"A":"6","B":"7","C":"8","D":"9","E":"10"},"answer":"C","explanation":"Fibonacci"},
+{"id":39,"category":"Numerik","question":"2,6,12,20,...","options":{"A":"30","B":"32","C":"42","D":"44","E":"46"},"answer":"C","explanation":"n(n+1)"},
+
+{"id":40,"category":"Logika","question":"Jika rajin maka sukses. Tidak sukses. Kesimpulan?","options":{"A":"Rajin","B":"Tidak rajin","C":"Mungkin rajin","D":"Sukses pasti","E":"Tidak pasti"},"answer":"B","explanation":"tollens"},
+
+{"id":41,"category":"Numerik","question":"Harga 100kg 800k. per kg?","options":{"A":"7000","B":"7500","C":"8000","D":"8500","E":"9000"},"answer":"C","explanation":"bagi"},
+{"id":42,"category":"Numerik","question":"Diskon 30% bayar 420k. awal?","options":{"A":"580k","B":"600k","C":"620k","D":"640k","E":"660k"},"answer":"B","explanation":"70%"},
+
+{"id":43,"category":"Figural","question":"Arsir searah jarum jam","options":{"A":"atas","B":"kanan","C":"bawah","D":"kiri","E":"tengah"},"answer":"D","explanation":"rotasi"},
+{"id":44,"category":"Figural","question":"1 lingkaran,2 garis,3 segitiga,...","options":{"A":"4","B":"5","C":"6","D":"7","E":"8"},"answer":"B","explanation":"bentuk"},
+
+{"id":45,"category":"Logika","question":"Semua kucing mamalia. Tom kucing. Kesimpulan?","options":{"A":"Tom mamalia","B":"Tom bukan mamalia","C":"Tidak pasti","D":"Semua salah","E":"Semua benar"},"answer":"A","explanation":"silogisme"},
+
+{"id":46,"category":"Numerik","question":"10% dari 200k?","options":{"A":"10k","B":"20k","C":"30k","D":"40k","E":"50k"},"answer":"B","explanation":"persen"},
+{"id":47,"category":"Numerik","question":"200 + 25%?","options":{"A":"210","B":"220","C":"230","D":"240","E":"250"},"answer":"E","explanation":"1.25x"},
+
+{"id":48,"category":"Logika","question":"Jika P maka Q. Q benar. Kesimpulan?","options":{"A":"P benar","B":"P salah","C":"Mungkin P","D":"Tidak pasti","E":"Semua benar"},"answer":"C","explanation":"fallacy"},
+
+{"id":49,"category":"Numerik","question":"60% + 70% - 50% = ?","options":{"A":"70%","B":"75%","C":"80%","D":"85%","E":"90%"},"answer":"C","explanation":"rumus"},
+
+{"id":50,"category":"Numerik","question":"Rugi 10% jual 180k. beli?","options":{"A":"180k","B":"190k","C":"200k","D":"210k","E":"220k"},"answer":"C","explanation":"90%"},
+
+{"id":51,"category":"Figural","question":"Panah atas 1 garis, kanan 2,...","options":{"A":"kiri 4","B":"atas 4","C":"kanan 4","D":"bawah 4","E":"kiri 1"},"answer":"A","explanation":"pola"},
+{"id":52,"category":"Figural","question":"Diagonal berganti","options":{"A":"\","B":"/","C":"X","D":"kosong","E":"lingkaran"},"answer":"A","explanation":"ulang"},
+
+{"id":53,"category":"Logika","question":"Tidak ada A adalah B. B adalah C. Kesimpulan?","options":{"A":"A adalah C","B":"A bukan C","C":"Tidak pasti","D":"Semua benar","E":"Semua salah"},"answer":"C","explanation":"tidak cukup"},
+
+{"id":54,"category":"Numerik","question":"5+10+15+...","options":{"A":"25","B":"30","C":"35","D":"40","E":"45"},"answer":"C","explanation":"deret"},
+
+{"id":55,"category":"Analogi","question":"PANAS : API = DINGIN : ?","options":{"A":"Air","B":"Es","C":"Angin","D":"Salju","E":"Udara"},"answer":"B","explanation":"asosiasi"},
+
+{"id":56,"category":"Analogi","question":"MATA : MELIHAT = TELINGA : ?","options":{"A":"Berbicara","B":"Mendengar","C":"Berjalan","D":"Makan","E":"Tidur"},"answer":"B","explanation":"fungsi"},
+
+{"id":57,"category":"Logika","question":"Semua siswa rajin. Andi siswa. Kesimpulan?","options":{"A":"Andi rajin","B":"Andi malas","C":"Tidak pasti","D":"Semua benar","E":"Semua salah"},"answer":"A","explanation":"silogisme"},
+
+{"id":58,"category":"Numerik","question":"4,9,16,25,...","options":{"A":"30","B":"35","C":"36","D":"40","E":"45"},"answer":"C","explanation":"kuadrat"},
+
+{"id":59,"category":"Figural","question":"Hitam putih bergantian","options":{"A":"Hitam","B":"Putih","C":"Merah","D":"Biru","E":"Hijau"},"answer":"B","explanation":"pola warna"},
+
+{"id":60,"category":"Analogi","question":"SIANG : TERANG = MALAM : ?","options":{"A":"Gelap","B":"Bintang","C":"Bulan","D":"Langit","E":"Dingin"},"answer":"A","explanation":"antonim"}
+]
