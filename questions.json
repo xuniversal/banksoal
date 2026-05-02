@@ -68,7 +68,7 @@
 {"id":50,"category":"Numerik","question":"Rugi 10% jual 180k. beli?","options":{"A":"180k","B":"190k","C":"200k","D":"210k","E":"220k"},"answer":"C","explanation":"90%"},
 
 {"id":51,"category":"Figural","question":"Panah atas 1 garis, kanan 2,...","options":{"A":"kiri 4","B":"atas 4","C":"kanan 4","D":"bawah 4","E":"kiri 1"},"answer":"A","explanation":"pola"},
-{"id":52,"category":"Figural","question":"Diagonal berganti","options":{"A":"\","B":"/","C":"X","D":"kosong","E":"lingkaran"},"answer":"A","explanation":"ulang"},
+{"id":52,"category":"Figural","question":"Diagonal berganti","options":{"A":"kiri 4","B":"atas 4","C":"kanan 4","D":"bawah 4","E":"kiri 1"},"answer":"A","explanation":"pola"},
 
 {"id":53,"category":"Logika","question":"Tidak ada A adalah B. B adalah C. Kesimpulan?","options":{"A":"A adalah C","B":"A bukan C","C":"Tidak pasti","D":"Semua benar","E":"Semua salah"},"answer":"C","explanation":"tidak cukup"},
 
